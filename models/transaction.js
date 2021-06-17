@@ -1,6 +1,6 @@
 module.exports = [
 
-    { from: 'Work', date: 'April 9', name: 'Income', amount: 2000 },
+    { from: 'Work', date: 'April 9', name: 'Tech Money', amount: 12000 },
     { from: 'Corey', date: 'April 10', name: 'Code Along', amount: -10 },
     { from: 'Corey', date: 'April 7', name: 'AirPods', amount: -200 },
     { from: 'Corey', date: 'April 9', name: 'Apple', amount: -53 },
@@ -9,7 +9,7 @@ module.exports = [
     { from: 'Gigi', date: 'April 1', name: 'Dog Food', amount: -20 },
     { from: 'Gigi', date: 'April 3', name: 'Car Wash', amount: -13 },
     { from: 'Gigi', date: 'April 8', name: 'Electric Bill', amount: -231 },
-    { from: 'Work', date: 'May 9', name: 'Income', amount: 2000 },
+    { from: 'Work', date: 'May 9', name: 'Tech Money', amount: 12000 },
     { from: 'Tim', date: 'May 20', name: 'Groceries', amount: -30 },
     { from: 'Tim', date: 'May 20', name: 'New Light Bulbs', amount: -10 },
     { from: 'Tim', date: 'May 17', name: 'Hair Cut', amount: -25 },
