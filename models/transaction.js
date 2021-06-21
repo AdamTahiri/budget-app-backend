@@ -1,0 +1,21 @@
+module.exports = [
+
+    { from: 'Work', date: 'April 9', name: 'Tech Money', amount: 12000 },
+    { from: 'Corey', date: 'April 10', name: 'Code Along', amount: -10 },
+    { from: 'Apple', date: 'April 7', name: 'AirPods', amount: -200 },
+    { from: 'Apple', date: 'April 9', name: 'Apple Care', amount: -53 },
+    { from: 'IRS', date: 'April 28', name: 'Taxes', amount: -123 },
+    { from: 'Gigi', date: 'April 19', name: 'One Thing', amount: -40 },
+    { from: 'Gigi', date: 'April 1', name: 'Dog Food', amount: -20 },
+    { from: 'Clean Touch', date: 'April 3', name: 'Car Wash', amount: -13 },
+    { from: 'Con Edison', date: 'April 8', name: 'Electric Bill', amount: -231 },
+    { from: 'Work', date: 'May 9', name: 'Tech Money', amount: 12000 },
+    { from: 'Whole Foods', date: 'May 20', name: 'Groceries', amount: -50 },
+    { from: 'Home Depot', date: 'May 20', name: 'New Light Bulbs', amount: -10 },
+    { from: 'Albert', date: 'May 17', name: 'Hair Cut', amount: -45 },
+    { from: 'Tim', date: 'May 17', name: 'Venmo', amount: -109 },
+    { from: 'Mashu', date: 'May 19', name: 'Fruit', amount: -10 },
+    { from: 'Mashu', date: 'May 19', name: 'BBQ', amount: -50 },
+    { from: 'Uber', date: 'May 27', name: 'Taxi', amount: -38 },
+    { from: 'Mashu', date: 'May 27', name: 'Github', amount: -7 },
+];
