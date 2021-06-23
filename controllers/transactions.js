@@ -20,6 +20,13 @@ transactions.post("/", (req, res) => {
     res.json(transactionsArray[transactionsArray.length - 1]);
 });
 
+transactions.put("/:arrayIndex", (req, res) => {
+    const { arrayIndex } = req.params;
+    const { body } = req;
+    transactionsArray[arrayIndex] = body;
+    res.json(transactionsArray[arrayIndex]);
+})
+
 transactions.delete("/:arrayIndex", (req, res) => {
     const { arrayIndex } = req.params;
     const deletedTransaction = transactionsArray.splice(arrayIndex, 1);
